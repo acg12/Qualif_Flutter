@@ -26,6 +26,7 @@ Build a mobile app using Flutter. The app should have 5 Pages, a Login Page, Hom
 -	If any of the items is tapped, it will redirect to Detail Page.
 
 4.	Detail Page
+
 Create a Tab View splitting the detail page into 2 parts and don’t forget to add icons to tab bar. Create the tabs based on the following details:
 - First Tab
   -	Display item image, detail/description, and price (if any).
