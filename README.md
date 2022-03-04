@@ -1,6 +1,6 @@
 # LookGood
 
-A project for BINUS' lab assistant qualification phase (Flutter).
+A project for BINUS' lab assistant qualification phase (Flutter). LookGood is an e-commerce application for LookGood, a local business that sells clothes and other fashion items for men and women.
 
 ## Requirements given:
 Build a mobile app using Flutter. The app should have 5 Pages, a Login Page, Home Page, Items Page, and a Detail Page, the details will be provided below. Please consider your mobile app’s UI/UX to be appropriate for the customer segment.
@@ -32,7 +32,7 @@ Create a Tab View splitting the detail page into 2 parts and don’t forget to a
   -	Provide a review/comment field, validate that the review/comment must not be empty.
   -	Display a Snackbar if the review/field is invalid.
 -	Second Tab
-  -	Display list of reviews/comments, each should contain the username/email of the user and the review/comment itself.
+    -	Display list of reviews/comments, each should contain the username/email of the user and the review/comment itself.
 
 ## Getting Started
 
