@@ -1,6 +1,6 @@
 # LookGood
 
-A project for BINUS' lab assistant qualification phase (Flutter). LookGood is an e-commerce application for LookGood, a local business that sells clothes and other fashion items for men and women.
+LookGood is an e-commerce application for LookGood, a local business that sells clothes and other fashion items for men and women.
 
 ## Requirements given:
 Build a mobile app using Flutter. The app should have 5 Pages, a Login Page, Home Page, Items Page, and a Detail Page, the details will be provided below. Please consider your mobile app’s UI/UX to be appropriate for the customer segment.
